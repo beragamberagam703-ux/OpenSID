@@ -61,7 +61,7 @@ Sistem ini dikelola berdasarkan lisensi **GNU General Public License Versi 3** (
 
 - **Demo Versi Premium OpenSID** dapat dicoba di: https://berputar.opendesa.id  
   Modul admin: https://berputar.opendesa.id/index.php/siteman  
-  Username: `admin`, Password: `sid304`
+  Username: `admin`, Password: `sid304` jjjnjbb
 
 ## 💬 FORUM
 
